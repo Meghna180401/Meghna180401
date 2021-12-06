@@ -1,4 +1,4 @@
-### <h1 align="center">Hello World - ![](https://tenor.com/view/garfield-waving-hi-hello-hey-there-gif-17926043) </h1>
+### <h1 align="center">Hello World - <img src ="https://tenor.com/view/garfield-waving-hi-hello-hey-there-gif-17926043" width="10px"> </h1>
 
 <!--
 **Meghna180401/Meghna180401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

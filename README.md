@@ -1,4 +1,4 @@
-### <h2> Hi There, I'm Meghna! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi There, I'm Meghna! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align="right" src="https://media2.giphy.com/media/icds9shs4XyIP3Fg5N/giphy.gif?cid=ecf05e476gjm83sia83gbhfyolxpnxx4fjqvafaghejeii9m&rid=giphy.gif&ct=s" width="250">
 <ul>
   <li> 🙋‍♀️ A Full Stack Developer in the making</li>
